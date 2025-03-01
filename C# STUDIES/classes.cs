@@ -9,16 +9,16 @@ class Names
 {
 		public static void Rato()
 		{
-			Console.WriteLine("Rato");
+			Console.WriteLine("rato");
 		}
 
 		public static void Abelha()
 		{
-			Console.WriteLine("Abelha");
+			Console.WriteLine("abelha");
 		}
 
 		public static void Barata()
 		{
-			Console.WriteLine("Barata");
+			Console.WriteLine("barata");
 		}
 }
