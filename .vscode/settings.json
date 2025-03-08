@@ -1,6 +1,8 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "stdlib.h": "c"
+        ".fantomasignore": "ignore",
+        "stdlib.h": "c",
+        "ft_putchar_header.h": "c"
     }
 }
